@@ -1,4 +1,4 @@
-# This contains the codes that will create the resource 
+# This contains the codes that will create the vpc resource 
 
 #VPC
 resource "aws_vpc" "main" {

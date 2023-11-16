@@ -32,3 +32,8 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+#Ignore EXTRA-TOPICS and  REMOTE-KP.PEM FILE
+extra-topics
+extra-topics/*
+extra-topics/remote-kp.pem
